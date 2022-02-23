@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "study",
+      "day": "all day and all the time",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "disturb van",
+      "day": "everyday at 4 pm",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "ss",
+      "day": "ss",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
